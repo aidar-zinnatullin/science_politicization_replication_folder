@@ -7,7 +7,7 @@ Scripts use `here` for path handling and write outputs into the `figures/` and `
 
 ## Requirements
 
-- R 4.5.0 (tested on Apple silicon / macOS)
+- R 4.5.0 (tested on Apple silicon/macOS)
 - Core packages used across scripts (install if missing):
 
 ```r
